@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PersonalWebPage2/static/css/main.dd6c7971.css",
+    "main.js": "/PersonalWebPage2/static/js/main.a51979a7.js",
+    "static/media/keeperApp.jpg": "/PersonalWebPage2/static/media/keeperApp.dfc59481f8b207b5825b.jpg",
+    "static/media/FightingGame.jpg": "/PersonalWebPage2/static/media/FightingGame.ae804f27401a118a5d2b.jpg",
+    "static/media/Jay4.JPG": "/PersonalWebPage2/static/media/Jay4.05128441ace50de2d48a.JPG",
+    "static/media/Jay3.JPG": "/PersonalWebPage2/static/media/Jay3.51934b6cabc6ff262a6a.JPG",
+    "static/media/TinDog.jpg": "/PersonalWebPage2/static/media/TinDog.e3d0de355708880676c4.jpg",
+    "static/media/cv.docx": "/PersonalWebPage2/static/media/cv.6d9f338ab5f2ff4b1e07.docx",
+    "static/media/rockPaperScissors.jpg": "/PersonalWebPage2/static/media/rockPaperScissors.bae5d2f4ee9e728722d6.jpg",
+    "index.html": "/PersonalWebPage2/index.html",
+    "main.dd6c7971.css.map": "/PersonalWebPage2/static/css/main.dd6c7971.css.map",
+    "main.a51979a7.js.map": "/PersonalWebPage2/static/js/main.a51979a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6c7971.css",
+    "static/js/main.a51979a7.js"
+  ]
+}
