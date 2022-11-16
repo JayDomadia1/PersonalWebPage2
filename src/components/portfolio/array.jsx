@@ -1,6 +1,6 @@
 import IMG1 from "../../Images/TinDog.jpg";
-import IMG2 from "../../Images/rockPaperScissors.jpg";
-import IMG3 from "../../Images/FightingGame.jpg";
+import IMG3 from "../../Images/rockPaperScissors.jpg";
+import IMG2 from "../../Images/FightingGame.jpg";
 import IMG4 from "../../Images/keeperApp.jpg";
 let data = [
   {
